@@ -3,6 +3,9 @@
   --primary-color:rgb(5, 15, 34);
   --sec-color: rgb(29, 197, 189);
 }
+body{
+  background-color: var(--deeper-color)
+}
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 nav{
   font-size: 15px;
